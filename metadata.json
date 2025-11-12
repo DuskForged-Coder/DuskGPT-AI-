@@ -1,0 +1,8 @@
+{
+  "name": "DuskGPT AI",
+  "description": "An AI-powered application that leverages the Gemini API for a wide range of tasks including chat, image generation and editing, video creation, text-to-speech, and AI-powered gaming.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
